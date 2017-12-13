@@ -1,0 +1,8 @@
+C:\Users\maasa\Documents\Work\customscrollbar_src\TestApp\CustomControls\bin\Debug\CustomControls.dll
+C:\Users\maasa\Documents\Work\customscrollbar_src\TestApp\CustomControls\bin\Debug\CustomControls.pdb
+C:\Users\maasa\Documents\Work\customscrollbar_src\TestApp\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\maasa\Documents\Work\customscrollbar_src\TestApp\CustomControls\obj\Debug\CustomControls.CustomScrollbar.resources
+C:\Users\maasa\Documents\Work\customscrollbar_src\TestApp\CustomControls\obj\Debug\CustomControls.Resource.resources
+C:\Users\maasa\Documents\Work\customscrollbar_src\TestApp\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+C:\Users\maasa\Documents\Work\customscrollbar_src\TestApp\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\maasa\Documents\Work\customscrollbar_src\TestApp\CustomControls\obj\Debug\CustomControls.pdb
